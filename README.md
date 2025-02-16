@@ -26,14 +26,14 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20Lord%20Mr.X)**, I am *
 <details>
   <summary>More about me</summary>
 
-- **Name**: Mr.X
-- **From**: Indonesian
+- **Name**: Mr.H3c4ked,
+- **From**: Cambodia 
 - **Blackhat Hacker** | **Cyber Security** | **Bug Hunter** | **Web Developer**
 - i have experience in cracking,web development,hacking,bug Hunting,forensics,Social engineering,spy agent.
 -**I am a hacker**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
-- Reach me out at **whomrx666@gmail.com**
+- Reach me out at **hackerproob17@gmail.com**
 
 </details>
 <br>
@@ -60,9 +60,9 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20Lord%20Mr.X)**, I am *
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whomrx666&theme=vision-friendly-dark)](https://github.com/Whomrx666/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Whomrx666&theme=dark&card_width=450)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/coffinsp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whomrx666&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3c4kedzpro&theme=vision-friendly-dark)](https://github.com/h3c4kedzpro/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=h3c4kedzpro&theme=dark&card_width=450)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/coffinsp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3c4kedzpro&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
 
 <br><br>
 
